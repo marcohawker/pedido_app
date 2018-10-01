@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pedido_app</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Strings de main activity -->
+
+    <string name="pedido">Ir al pedido</string>
+    <string name="categoria1">Tipo de comida1</string>
+    <string name="categoria2">Tipo de comida2</string>
+    <string name="categoria3">Tipo de comida3</string>
+    <string name="categoria4">Tipo de comida4</string>
+    <string name="categoria5">Tipo de comida5</string>
+
+    <!-- Strings de menu1 -->
+    <string name="comida1">Comida 1 y sus especificaciones</string>
+    <string name="comida2">Comida 2 y sus especificaciones</string>
+    <string name="checkbox">Agregar al pedido</string>
+    <string name="title_activity_confirmacion_pedido">confirmacionPedido</string>
+</resources>
