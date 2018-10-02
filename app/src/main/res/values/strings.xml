@@ -29,4 +29,5 @@
     <string name="comida2">Comida 2 y sus especificaciones</string>
     <string name="checkbox">Agregar al pedido</string>
     <string name="title_activity_confirmacion_pedido">confirmacionPedido</string>
+    <string name="valorDefault">0</string>
 </resources>
